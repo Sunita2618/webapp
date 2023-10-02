@@ -55,7 +55,7 @@ def display_images(image_directory):
         st.warning("No image files found in the directory.")
 
 # Directory where your PDF files are located
-pdf_directory = "webapp/webapp-pdf/pdf/"
+pdf_directory = "webapp-pdf/pdf/"
 
 # Directory where your image files are located
 image_directory = "images/"
