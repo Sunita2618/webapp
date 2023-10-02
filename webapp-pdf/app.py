@@ -58,7 +58,7 @@ def display_images(image_directory):
 pdf_directory = "webapp-pdf/pdf/"
 
 # Directory where your image files are located
-image_directory = "images/"
+image_directory = "webapp-pdf/images/"
 
 # List all PDF files in the directory
 pdf_files = [f for f in os.listdir(pdf_directory) if f.endswith(".pdf")]
