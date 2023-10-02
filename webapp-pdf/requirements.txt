@@ -1,2 +1,4 @@
 PyPDF2
 pdf2image
+requests==2.26.0
+beautifulsoup4==4.10.0
